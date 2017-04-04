@@ -1,0 +1,36 @@
+C:\herramientas y software\UTH\Cuat2\Programacion\DemoObjetosVisual\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.exe.config
+C:\herramientas y software\UTH\Cuat2\Programacion\DemoObjetosVisual\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.exe
+C:\herramientas y software\UTH\Cuat2\Programacion\DemoObjetosVisual\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.pdb
+C:\herramientas y software\UTH\Cuat2\Programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.csprojResolveAssemblyReference.cache
+C:\herramientas y software\UTH\Cuat2\Programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.Form1.resources
+C:\herramientas y software\UTH\Cuat2\Programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.Properties.Resources.resources
+C:\herramientas y software\UTH\Cuat2\Programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.csproj.GenerateResource.Cache
+C:\herramientas y software\UTH\Cuat2\Programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.exe
+C:\herramientas y software\UTH\Cuat2\Programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.pdb
+E:\Cuat2\programacion\DemoObjetosVisual\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.exe.config
+E:\Cuat2\programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.exe
+E:\Cuat2\programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.pdb
+F:\Cuat2\programacion\DemoObjetosVisual\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.exe.config
+F:\Cuat2\programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.exe
+F:\Cuat2\programacion\DemoObjetosVisual\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.pdb
+R:\UTH\Cuat2\Programacion\FeriadorConClases\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.exe.config
+R:\UTH\Cuat2\Programacion\FeriadorConClases\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.exe
+R:\UTH\Cuat2\Programacion\FeriadorConClases\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.pdb
+C:\Users\monta\Downloads\FeriadorConClases.RAR\FeriadorConClases\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.exe.config
+C:\Users\monta\Downloads\FeriadorConClases.RAR\FeriadorConClases\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.exe
+C:\Users\monta\Downloads\FeriadorConClases.RAR\FeriadorConClases\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.pdb
+C:\Users\monta\Downloads\FeriadorConClases.RAR\FeriadorConClases\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.csprojResolveAssemblyReference.cache
+C:\Users\monta\Downloads\FeriadorConClases.RAR\FeriadorConClases\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.Form1.resources
+C:\Users\monta\Downloads\FeriadorConClases.RAR\FeriadorConClases\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.Properties.Resources.resources
+C:\Users\monta\Downloads\FeriadorConClases.RAR\FeriadorConClases\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.csproj.GenerateResource.Cache
+C:\Users\monta\Downloads\FeriadorConClases.RAR\FeriadorConClases\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.exe
+C:\Users\monta\Downloads\FeriadorConClases.RAR\FeriadorConClases\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.pdb
+C:\Users\monta\Downloads\prog pendientes\FeriadordeFeriaConClase\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.exe.config
+C:\Users\monta\Downloads\prog pendientes\FeriadordeFeriaConClase\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.exe
+C:\Users\monta\Downloads\prog pendientes\FeriadordeFeriaConClase\DemoObjetosVisual\bin\Debug\DemoObjetosVisual.pdb
+C:\Users\monta\Downloads\prog pendientes\FeriadordeFeriaConClase\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.csprojResolveAssemblyReference.cache
+C:\Users\monta\Downloads\prog pendientes\FeriadordeFeriaConClase\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.Form1.resources
+C:\Users\monta\Downloads\prog pendientes\FeriadordeFeriaConClase\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.Properties.Resources.resources
+C:\Users\monta\Downloads\prog pendientes\FeriadordeFeriaConClase\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.csproj.GenerateResource.Cache
+C:\Users\monta\Downloads\prog pendientes\FeriadordeFeriaConClase\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.exe
+C:\Users\monta\Downloads\prog pendientes\FeriadordeFeriaConClase\DemoObjetosVisual\obj\Debug\DemoObjetosVisual.pdb
